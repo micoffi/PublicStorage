@@ -1,6 +1,5 @@
-git status
-git add
-git commit
-git push
-
-
+git status - this is to check status
+git add - to track files that are just added to the repo
+git commit - to commit
+git push - to push what's commited
+git pull - to pull what's in remote repo
