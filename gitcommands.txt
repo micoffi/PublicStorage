@@ -3,4 +3,5 @@ git add - to track files that are just added to the repo
 git commit - to commit
 git push - to push what's commited
 git pull - to pull what's in remote repo
-And this will be pushed?
+git branch - to create another version of the project. E.g free vs premium app versions.
+git switch - e.g git switch main, git switch premium
